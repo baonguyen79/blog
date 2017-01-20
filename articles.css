@@ -1,0 +1,30 @@
+
+#article-1 {
+	background-color: yellow;
+	font-family: Georgia, Serif, "Times New Roman";
+	font-size: small;
+}
+
+#article-2 {
+	background-color: blue;
+	font-family: "Lucida Console","Gill Sans Extrabold", sans-serif;
+	font-size: medium;
+}
+
+#article-3 {
+	background-color: orange;
+	font-family: fantasy;
+	font-size: x-small;
+}
+
+#article-4 {
+	background-color: purple;
+	font-family: monospace;
+	font-size: large;
+}
+
+#article-5 {
+	background-color: brown;
+	font-family: cursive;
+	font-size: x-large;
+}
