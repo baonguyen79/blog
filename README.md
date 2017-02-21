@@ -1,4 +1,4 @@
 # NSS Blog Exercise
 
 ## Project Description
-![](./Capture.GIF)
+![Blog screenCapture](./Capture.GIF)
